@@ -1,0 +1,5 @@
+.paket/
+paket-files/
+bin/
+obj/
+*.user
