@@ -3,3 +3,5 @@ paket-files/
 bin/
 obj/
 *.user
+launchSettings.json
+.vs/
